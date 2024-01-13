@@ -1,1 +1,5 @@
-# Sadiya-C-Plus
+- 👋 Hi, I’m @Sadiya-C-Plus
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Web Development.
+- 🌱 I’m currently learning C++ Programming Language
+- 💞️ I’m looking to collaborate on C Programming and HTML Projects
+- 📫 How to reach me wajidmohiuddin025@gmail.com
